@@ -1,3 +1,5 @@
-console.log("¡Hola Mundo!");
+console.log("¡Hola Mundo de nuevo!");
 
-//modificacion de archivo.
+//modificacion de console.log
+let saludos = "Hola que tal";
+console.log(saludos);
